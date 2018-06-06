@@ -31,5 +31,5 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  return famous_cats[-1]
+  return array[-1]
 end
